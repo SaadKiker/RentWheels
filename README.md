@@ -14,14 +14,14 @@ RentWheels is a Java-based desktop application designed for seamless car rental 
 ✅ Database Integration – Uses MySQL/PostgreSQL (or other DB) for data storage.
 
 # Technologies Used
-	•	Java (JDK 11)
-	•	Swing (GUI Framework)
-	•	JDBC (Database Connectivity)
-	•	MySQL (Database)
-	•	Maven(Dependency Management)
+	• Java (JDK 11)
+	• Swing (GUI Framework)
+	• JDBC (Database Connectivity)
+	• MySQL (Database)
+	• Maven(Dependency Management)
 
 # Usage
-	1.	Login/Register to the application.
-	2.	Upload a car (if you’re a car owner).
-	3.	Browse and Rent available cars.
-	4.	Manage Rentals through the dashboard.
+	1. Login/Register to the application.
+	2. Upload a car (if you’re a car owner).
+	3. Browse and Rent available cars.
+	4. Manage Rentals through the dashboard.
